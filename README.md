@@ -20,7 +20,10 @@
  ## Leaderboards Screen:
  - Upon clicking on the leaderboards screen, the user can see the list of all scores and corresponding players in a *highest score first* precedence.
 
-# How to Run:
+ ## Application Demo:
+ A short gif demonstrating the game in action: <br/>
+ ![](bubbleGIF.gif)
 
+# How to Run:
 - The system can be run by running the application on Xcode. 
 - The app has not yet been published in the Appstore,  hence the only way to run it is through loading it on a physical device through a Mac and Xcode.
